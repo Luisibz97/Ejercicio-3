@@ -1,4 +1,3 @@
-
 let value = 10
 let  count = value - 1 ;
 while (true) {
